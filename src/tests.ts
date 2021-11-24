@@ -19,6 +19,5 @@
 
 import './async_storage_io_test';
 import './bundle_resource_io_test';
-import './camera/camera_test';
 import './decode_image_test';
 import './platform_react_native_test';

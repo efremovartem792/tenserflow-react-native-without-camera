@@ -20,5 +20,3 @@ export { bundleResourceIO } from './bundle_resource_io';
 export { decodeJpeg } from './decode_image';
 export { fetch } from './platform_react_native';
 export { version } from './version';
-export * from './camera/camera';
-export * from './camera/camera_stream';

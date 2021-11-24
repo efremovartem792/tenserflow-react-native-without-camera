@@ -1597,46 +1597,6 @@
         "version": "0a235e01d22076ca18c7280764995ec1576d262ed8e7b4103d7bc9218c013313",
         "signature": "9b896b8395a78434db17ad563ce5fa9cfb6fd7f80804dc5306d712a2a0a4bdc1"
       },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts": {
-        "version": "b81da9cb0a9a584117466d56eb54db8d65f04f9802c1c14f50d1b4371044b075",
-        "signature": "5ea73a896052221b4d85e25ec45dbfc6eb85cc917b2b4e3b0bb39d9600a74d11"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/draw_texture_program_info.ts": {
-        "version": "e410dc5120205eccadd490ea40a328f081164962c60cf54906ee3d19af9a3941",
-        "signature": "a068ecde569fcc0ba87cd1136e380487a5182e91b50009f88eca96bb2b284538"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_bilinear_program_info.ts": {
-        "version": "a177f8c6c34b148e7ac08baef1b5dbfb0489d43ac68cb37407e1de5cb0fcf839",
-        "signature": "e61333dab2f3b1d00a7e5a5c1de6a02ea667cb8c6deb77fcf75d1f180ccdcebc"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_nearest_neigbor_program_info.ts": {
-        "version": "44b465b8f235d3d27e2b9461307a765410cccdfa44705cda38194776c8551d33",
-        "signature": "e61333dab2f3b1d00a7e5a5c1de6a02ea667cb8c6deb77fcf75d1f180ccdcebc"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_webgl_util.ts": {
-        "version": "4c66764e3de186f59f88db73a77637ff79ea0ee08e19af7550ce830ecbda9574",
-        "signature": "152b38e94685a905a060a255609e8330ef6d08da52b21eb2235c905090f586ba"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts": {
-        "version": "c5226039df8d4b7614f723a5f1d4ea24990b3ff17f7abd6493e374095f988237",
-        "signature": "f72a72895ed47ff2599b2f49f206afe3bc5bbda4741e17edab84ad766fe01e29"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts": {
-        "version": "911034fc08a9b87ec10d050534ad930e9e8fe210fbc86da6b4ab1c34c8e7e45b",
-        "signature": "911034fc08a9b87ec10d050534ad930e9e8fe210fbc86da6b4ab1c34c8e7e45b"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts": {
-        "version": "638f662b74b94bc70b2ce2f0ea957b0663a2bbe6406dd640a95ea35cb0654715",
-        "signature": "638f662b74b94bc70b2ce2f0ea957b0663a2bbe6406dd640a95ea35cb0654715"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts": {
-        "version": "a90b572d6ab79d5ea74a4de1e20038c08560e1d17c06609e84125f7e5e41018e",
-        "signature": "a90b572d6ab79d5ea74a4de1e20038c08560e1d17c06609e84125f7e5e41018e"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx": {
-        "version": "16e61771c6497bf48585c1693129d009a8d47d2653d68a093ef12b4e3af261de",
-        "signature": "280d3d8541f59654ce3afcd2bdd15601dd59ddfe0de2703919bf2c7ba7f38632"
-      },
       "/tmp/tfjs-publish/tfjs-react-native/src/index.ts": {
         "version": "823f2734aeb1e0402920e5354689ef98e027a9ca21f24413db07e87459fd16f5",
         "signature": "66d51624db40e3e1896388d8747624473db5f94822d40e90d4fca1f956ceb97e"
@@ -1647,10 +1607,6 @@
       },
       "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native_test.ts": {
         "version": "324c8c1952a30910935be4905f6aec039ce5114f8996ee12335ad5ef18d79b41",
-        "signature": "7ab4599ea84fe926131e6209c3cea2a8a2a2bda6b1bb31739736492a2e2ebf52"
-      },
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_test.ts": {
-        "version": "e9f1af6f932afa9347b0c7f0d10687bcdbbe505466b281b4a5b7733c35b01f90",
         "signature": "7ab4599ea84fe926131e6209c3cea2a8a2a2bda6b1bb31739736492a2e2ebf52"
       },
       "/tmp/tfjs-publish/tfjs-react-native/src/tests.ts": {
@@ -3610,51 +3566,12 @@
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/jpeg-js/index.d.ts"
       ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/draw_texture_program_info.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_webgl_util.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-backend-webgl/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/draw_texture_program_info.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_bilinear_program_info.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_nearest_neigbor_program_info.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_webgl_util.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/prop-types/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-gl/build/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
-      ],
       "/tmp/tfjs-publish/tfjs-react-native/src/index.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/async_storage_io.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/bundle_resource_io.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/decode_image.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/version.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx"
       ],
       "/tmp/tfjs-publish/tfjs-react-native/src/decode_image_test.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
@@ -3668,17 +3585,9 @@
         "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/test_env_registry.ts"
       ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_test.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/jasmine_util.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-gl/build/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/test_env_registry.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts"
-      ],
       "/tmp/tfjs-publish/tfjs-react-native/src/tests.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/src/async_storage_io_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/bundle_resource_io_test.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/decode_image_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native_test.ts"
       ],
@@ -3943,13 +3852,10 @@
         "/tmp/tfjs-publish/tfjs-react-native/src/bundle_resource_io.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/decode_image.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/version.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx"
       ],
       "/tmp/tfjs-publish/tfjs-react-native/src/tests.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/src/async_storage_io_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/bundle_resource_io_test.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/decode_image_test.ts",
         "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native_test.ts"
       ],
@@ -3999,21 +3905,6 @@
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/base_side_effects.d.ts",
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/base.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-gl/build/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_webgl_util.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
       ],
       "/tmp/tfjs-publish/tfjs-react-native/src/decode_image.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/index.d.ts"
@@ -5545,15 +5436,6 @@
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/@tensorflow/tfjs-core/dist/hash_util.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/long/index.d.ts"
       ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/prop-types/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react/index.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts",
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts"
-      ],
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-gl/build/GLView.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/prop-types/index.d.ts",
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react/index.d.ts",
@@ -5571,9 +5453,6 @@
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/legacy-properties.d.ts",
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/BatchedBridge.d.ts",
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/Devtools.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts"
       ],
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-gl/build/GLView.types.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/react-native/index.d.ts",
@@ -5597,9 +5476,6 @@
       ],
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-asset/build/Asset.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-asset/build/AssetSources.d.ts"
-      ],
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/draw_texture_program_info.ts": [
-        "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts"
       ],
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/node/async_hooks.d.ts": [
         "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/node/async_hooks.d.ts"
@@ -6252,20 +6128,9 @@
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/jpeg-js/index.d.ts",
       "/tmp/tfjs-publish/tfjs-react-native/src/decode_image.ts",
       "/tmp/tfjs-publish/tfjs-react-native/src/version.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/types.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/draw_texture_program_info.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_bilinear_program_info.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/resize_nearest_neigbor_program_info.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_webgl_util.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.types.d.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/Camera.d.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/node_modules/expo-camera/build/index.d.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_stream.tsx",
       "/tmp/tfjs-publish/tfjs-react-native/src/index.ts",
       "/tmp/tfjs-publish/tfjs-react-native/src/decode_image_test.ts",
       "/tmp/tfjs-publish/tfjs-react-native/src/platform_react_native_test.ts",
-      "/tmp/tfjs-publish/tfjs-react-native/src/camera/camera_test.ts",
       "/tmp/tfjs-publish/tfjs-react-native/src/tests.ts",
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/base64-js/index.d.ts",
       "/tmp/tfjs-publish/tfjs-react-native/node_modules/@types/estree/index.d.ts",
